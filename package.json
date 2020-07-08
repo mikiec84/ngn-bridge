@@ -24,7 +24,7 @@
   "homepage": "https://github.com/nodengn/ngn-dev-bridge",
   "dependencies": {
     "primus": "2.2.0",
-    "ws": "0.4.31",
+    "ws": "7.3.1",
     "polo": "0.5.6",
     "uglify-js": "2.4.13"
   },
